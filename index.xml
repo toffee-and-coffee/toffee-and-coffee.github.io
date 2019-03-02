@@ -17,9 +17,9 @@
       <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://toffee-and-coffee.gitlab.io/about/</guid>
-      <description>A great story goes here.
-Some ideas about the story.
- why starting this business how coffee beans are sourced how are the staff trained how to get there  </description>
+      <description>Toffee and Coffee theme is a theme to build a website quickly to introduce your studio or boutique shop.
+Repo for this theme: https://github.com/toffee-and-coffee/toffee-and-coffee.github.io
+How to Use This Theme Hosting With Github Pages  create an organization fork repository to this organization, and rename repository to [orgname].github.io  Hosting With Gitlab Pages  create a public group fork/import repository to this group, and rename repository to [groupname].gitlab.io run a default pipeline to publish to Gitlab Pages  Custom Hosting  download as a compressed file upload to your web server and uncompress  Customize Website with Go and Talk Page Builder  navigate to a page, click on edit link at the bottom of the page to open page builder edit in the browser, add or remove sections as required save webpage to website repository or custom web server to publish refer to demos or tutorials for details of using the page builder  license theme and template Creative Commons Attribution-NonCommercial 4.</description>
     </item>
     
     <item>
